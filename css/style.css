@@ -140,7 +140,8 @@ body{
 }
 
 .user-details ul{
-	margin: 0 0 0 130px;
+	margin: 0 0 0 100px;
+	width: 200px;
 }
 
 .user-details ul:first-child{
@@ -163,7 +164,7 @@ body{
 }
 
 .user-details-content>div{
-	margin: 0 0 0 140px;
+	margin: 0 0 0 40px;
 }
 
 .user-details-content strong{
